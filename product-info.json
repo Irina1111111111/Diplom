@@ -1,0 +1,1741 @@
+{
+  "buildNumber": "243.24978.46.2431.13208083",
+  "bundledPlugins": [
+    "Coverage",
+    "DevKit",
+    "Git4Idea",
+    "HtmlTools",
+    "JUnit",
+    "Subversion",
+    "TestNG-J",
+    "com.intellij",
+    "com.intellij.cidr.base",
+    "com.intellij.cidr.debugger",
+    "com.intellij.cidr.lang",
+    "com.intellij.cidr.lang.clangd",
+    "com.intellij.cidr.lang.clangdBridge",
+    "com.intellij.completion.ml.ranking",
+    "com.intellij.configurationScript",
+    "com.intellij.copyright",
+    "com.intellij.dev",
+    "com.intellij.gradle",
+    "com.intellij.java",
+    "com.intellij.java-i18n",
+    "com.intellij.java.ide",
+    "com.intellij.modules.json",
+    "com.intellij.platform.images",
+    "com.intellij.plugins.eclipsekeymap",
+    "com.intellij.plugins.netbeanskeymap",
+    "com.intellij.plugins.visualstudiokeymap",
+    "com.intellij.properties",
+    "com.intellij.tasks",
+    "com.intellij.turboComplete",
+    "com.jetbrains.performancePlugin",
+    "com.jetbrains.sh",
+    "hg4idea",
+    "intellij.webp",
+    "org.editorconfig.editorconfigjetbrains",
+    "org.intellij.groovy",
+    "org.intellij.intelliLang",
+    "org.intellij.plugins.markdown",
+    "org.jetbrains.debugger.streams",
+    "org.jetbrains.idea.maven.model",
+    "org.jetbrains.idea.maven.server.api",
+    "org.jetbrains.idea.reposearch",
+    "org.jetbrains.java.decompiler",
+    "org.jetbrains.kotlin",
+    "org.jetbrains.plugins.clangConfig",
+    "org.jetbrains.plugins.clangFormat",
+    "org.jetbrains.plugins.emojipicker",
+    "org.jetbrains.plugins.github",
+    "org.jetbrains.plugins.gitlab",
+    "org.jetbrains.plugins.gradle",
+    "org.jetbrains.plugins.terminal",
+    "org.jetbrains.plugins.textmate",
+    "org.jetbrains.plugins.yaml",
+    "org.toml.lang"
+  ],
+  "dataDirectoryName": "AndroidStudio2024.3",
+  "envVarBaseName": "STUDIO",
+  "fileExtensions": [
+    "*.ane",
+    "*.ant",
+    "*.apinotes",
+    "*.apk",
+    "*.asm",
+    "*.bash",
+    "*.bigtiff",
+    "*.bmp",
+    "*.c",
+    "*.c++",
+    "*.c++m",
+    "*.cc",
+    "*.ccm",
+    "*.childprocessdebugging",
+    "*.class",
+    "*.cmake",
+    "*.cp",
+    "*.cpp",
+    "*.cppm",
+    "*.cu",
+    "*.cuh",
+    "*.cxx",
+    "*.cxxm",
+    "*.dcx",
+    "*.def",
+    "*.dic",
+    "*.diff",
+    "*.doc",
+    "*.docx",
+    "*.doxygen",
+    "*.dtd",
+    "*.ear",
+    "*.egg",
+    "*.elt",
+    "*.ent",
+    "*.fxml",
+    "*.gant",
+    "*.gdbcommandsfiletypeextension",
+    "*.gdsl",
+    "*.gif",
+    "*.gitignore",
+    "*.gradle",
+    "*.groovy",
+    "*.gy",
+    "*.h",
+    "*.h++",
+    "*.har",
+    "*.hgignore",
+    "*.hh",
+    "*.hlp",
+    "*.hmap",
+    "*.hp",
+    "*.hpp",
+    "*.htm",
+    "*.html",
+    "*.hxx",
+    "*.i",
+    "*.icc",
+    "*.icns",
+    "*.ico",
+    "*.ignore",
+    "*.ii",
+    "*.iml",
+    "*.inl",
+    "*.ino",
+    "*.ipp",
+    "*.ipr",
+    "*.iws",
+    "*.ixx",
+    "*.jar",
+    "*.java",
+    "*.jbig2",
+    "*.jhm",
+    "*.jnlp",
+    "*.jpeg",
+    "*.jpg",
+    "*.jql",
+    "*.jrxml",
+    "*.json",
+    "*.json5",
+    "*.jsonc",
+    "*.jsonl",
+    "*.jsonlines",
+    "*.kjsm",
+    "*.klib",
+    "*.knm",
+    "*.kotlin_builtins",
+    "*.kotlin_metadata",
+    "*.kotlin_module",
+    "*.kt",
+    "*.kts",
+    "*.ldjson",
+    "*.lldbcommandsfiletypeextension",
+    "*.m",
+    "*.markdown",
+    "*.md",
+    "*.mdb",
+    "*.mm",
+    "*.mod",
+    "*.modulemap",
+    "*.mxx",
+    "*.natvis",
+    "*.ndjson",
+    "*.odt",
+    "*.pam",
+    "*.patch",
+    "*.pbm",
+    "*.pch",
+    "*.pcx",
+    "*.pdf",
+    "*.pgm",
+    "*.png",
+    "*.pnm",
+    "*.ppm",
+    "*.ppt",
+    "*.pptx",
+    "*.properties",
+    "*.psd",
+    "*.regexp",
+    "*.rgbe",
+    "*.rnc",
+    "*.rng",
+    "*.sh",
+    "*.sht",
+    "*.shtm",
+    "*.shtml",
+    "*.snippet",
+    "*.svg",
+    "*.swc",
+    "*.tcc",
+    "*.tga",
+    "*.tif",
+    "*.tiff",
+    "*.tld",
+    "*.toml",
+    "*.tpp",
+    "*.vsd",
+    "*.war",
+    "*.wbmp",
+    "*.webp",
+    "*.wsdl",
+    "*.xbm",
+    "*.xhtml",
+    "*.xml",
+    "*.xpm",
+    "*.xsd",
+    "*.xsl",
+    "*.xslt",
+    "*.xul",
+    "*.yaml",
+    "*.yml",
+    "*.zip",
+    "*.zsh",
+    ".clang-format",
+    ".clang-tidy",
+    ".editorconfig",
+    "CMakeCache.txt",
+    "CMakeLists.txt",
+    "Cargo.lock",
+    "Cargo.toml.orig",
+    "Gopkg.lock",
+    "Pipfile",
+    "_clang-format",
+    "exclude",
+    "logback.groovy",
+    "manifest.mf",
+    "module-info.java",
+    "module.map",
+    "org.codehaus.groovy.runtime.ExtensionModule",
+    "poetry.lock",
+    "uv.lock"
+  ],
+  "launch": [
+    {
+      "additionalJvmArguments": [
+        "-Djava.system.class.loader=com.intellij.util.lang.PathClassLoader",
+        "-Didea.vendor.name=Google",
+        "-Didea.paths.selector=AndroidStudio2024.3",
+        "-Djna.boot.library.path=%IDE_HOME%/lib/jna/amd64",
+        "-Dpty4j.preferred.native.folder=%IDE_HOME%/lib/pty4j",
+        "-Djna.nosys=true",
+        "-Djna.noclasspath=true",
+        "-Dintellij.platform.runtime.repository.path=%IDE_HOME%/modules/module-descriptors.jar",
+        "-Didea.platform.prefix=AndroidStudio",
+        "-XX:FlightRecorderOptions=stackdepth=256",
+        "--add-opens=java.base/sun.net.www.protocol.https=ALL-UNNAMED",
+        "-Djava.security.manager=allow",
+        "-Dij.startup.error.report.url=https://issuetracker.google.com/issues/new?component=192708",
+        "-XX:CompileCommand=exclude,org.jetbrains.kotlin.serialization.deserialization.TypeDeserializer::simpleType",
+        "-XX:CompileCommand=exclude,org.jetbrains.kotlin.serialization.deserialization.TypeDeserializer::toAttributes",
+        "-Dsplash=true",
+        "-Daether.connector.resumeDownloads=false",
+        "-Dcompose.swing.render.on.graphics=true",
+        "--add-opens=java.base/java.io=ALL-UNNAMED",
+        "--add-opens=java.base/java.lang=ALL-UNNAMED",
+        "--add-opens=java.base/java.lang.ref=ALL-UNNAMED",
+        "--add-opens=java.base/java.lang.reflect=ALL-UNNAMED",
+        "--add-opens=java.base/java.net=ALL-UNNAMED",
+        "--add-opens=java.base/java.nio=ALL-UNNAMED",
+        "--add-opens=java.base/java.nio.charset=ALL-UNNAMED",
+        "--add-opens=java.base/java.text=ALL-UNNAMED",
+        "--add-opens=java.base/java.time=ALL-UNNAMED",
+        "--add-opens=java.base/java.util=ALL-UNNAMED",
+        "--add-opens=java.base/java.util.concurrent=ALL-UNNAMED",
+        "--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED",
+        "--add-opens=java.base/java.util.concurrent.locks=ALL-UNNAMED",
+        "--add-opens=java.base/jdk.internal.vm=ALL-UNNAMED",
+        "--add-opens=java.base/sun.net.dns=ALL-UNNAMED",
+        "--add-opens=java.base/sun.nio.ch=ALL-UNNAMED",
+        "--add-opens=java.base/sun.nio.fs=ALL-UNNAMED",
+        "--add-opens=java.base/sun.security.ssl=ALL-UNNAMED",
+        "--add-opens=java.base/sun.security.util=ALL-UNNAMED",
+        "--add-opens=java.desktop/com.sun.java.swing=ALL-UNNAMED",
+        "--add-opens=java.desktop/java.awt=ALL-UNNAMED",
+        "--add-opens=java.desktop/java.awt.dnd.peer=ALL-UNNAMED",
+        "--add-opens=java.desktop/java.awt.event=ALL-UNNAMED",
+        "--add-opens=java.desktop/java.awt.font=ALL-UNNAMED",
+        "--add-opens=java.desktop/java.awt.image=ALL-UNNAMED",
+        "--add-opens=java.desktop/java.awt.peer=ALL-UNNAMED",
+        "--add-opens=java.desktop/javax.swing=ALL-UNNAMED",
+        "--add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED",
+        "--add-opens=java.desktop/javax.swing.text=ALL-UNNAMED",
+        "--add-opens=java.desktop/javax.swing.text.html=ALL-UNNAMED",
+        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
+        "--add-opens=java.desktop/sun.awt.datatransfer=ALL-UNNAMED",
+        "--add-opens=java.desktop/sun.awt.image=ALL-UNNAMED",
+        "--add-opens=java.desktop/sun.awt.windows=ALL-UNNAMED",
+        "--add-opens=java.desktop/sun.font=ALL-UNNAMED",
+        "--add-opens=java.desktop/sun.java2d=ALL-UNNAMED",
+        "--add-opens=java.desktop/sun.swing=ALL-UNNAMED",
+        "--add-opens=java.management/sun.management=ALL-UNNAMED",
+        "--add-opens=jdk.attach/sun.tools.attach=ALL-UNNAMED",
+        "--add-opens=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED",
+        "--add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED",
+        "--add-opens=jdk.jdi/com.sun.tools.jdi=ALL-UNNAMED"
+      ],
+      "arch": "amd64",
+      "bootClassPathJarNames": [
+        "platform-loader.jar",
+        "util-8.jar",
+        "util.jar",
+        "util_rt.jar",
+        "opentelemetry.jar",
+        "app.jar",
+        "stats.jar",
+        "jps-model.jar",
+        "external-system-rt.jar",
+        "rd.jar",
+        "bouncy-castle.jar",
+        "protobuf.jar",
+        "intellij-test-discovery.jar",
+        "forms_rt.jar",
+        "lib.jar",
+        "externalProcess-rt.jar",
+        "groovy.jar",
+        "annotations.jar",
+        "idea_rt.jar",
+        "kotlinx-coroutines-slf4j-1.8.0-intellij.jar",
+        "nio-fs.jar",
+        "resources.jar",
+        "trove.jar"
+      ],
+      "launcherPath": "bin/studio64.exe",
+      "mainClass": "com.android.tools.idea.MainWrapper",
+      "os": "Windows",
+      "vmOptionsFilePath": "bin/studio64.exe.vmoptions"
+    }
+  ],
+  "layout": [
+    {
+      "classPath": [
+        "plugins/java-coverage/lib/java-coverage.jar",
+        "plugins/java-coverage/lib/java-coverage-rt.jar",
+        "plugins/java-coverage/lib/jacoco.jar"
+      ],
+      "kind": "plugin",
+      "name": "Coverage"
+    },
+    {
+      "classPath": [
+        "plugins/devkit/lib/devkit.jar",
+        "plugins/devkit/lib/devkit-jps.jar",
+        "plugins/devkit/lib/devkit-runtimeModuleRepository-jps.jar"
+      ],
+      "kind": "plugin",
+      "name": "DevKit"
+    },
+    {
+      "classPath": [
+        "plugins/vcs-git/lib/vcs-git.jar",
+        "plugins/vcs-git/lib/git4idea-rt.jar"
+      ],
+      "kind": "plugin",
+      "name": "Git4Idea"
+    },
+    {
+      "classPath": [
+        "plugins/html-tools/lib/html-tools.jar"
+      ],
+      "kind": "plugin",
+      "name": "HtmlTools"
+    },
+    {
+      "classPath": [
+        "plugins/junit/lib/junit.jar",
+        "plugins/junit/lib/junit-rt.jar",
+        "plugins/junit/lib/junit5-rt.jar"
+      ],
+      "kind": "plugin",
+      "name": "JUnit"
+    },
+    {
+      "classPath": [
+        "plugins/vcs-svn/lib/vcs-svn.jar"
+      ],
+      "kind": "plugin",
+      "name": "Subversion"
+    },
+    {
+      "classPath": [
+        "plugins/testng/lib/testng-rt.jar",
+        "plugins/testng/lib/testng-plugin.jar"
+      ],
+      "kind": "plugin",
+      "name": "TestNG-J"
+    },
+    {
+      "classPath": [
+        "lib/platform-loader.jar",
+        "lib/util-8.jar",
+        "lib/util.jar",
+        "lib/util_rt.jar",
+        "lib/opentelemetry.jar",
+        "lib/app.jar",
+        "lib/stats.jar",
+        "lib/jps-model.jar",
+        "lib/external-system-rt.jar",
+        "lib/rd.jar",
+        "lib/bouncy-castle.jar",
+        "lib/protobuf.jar",
+        "lib/intellij-test-discovery.jar",
+        "lib/forms_rt.jar",
+        "lib/lib.jar",
+        "lib/externalProcess-rt.jar",
+        "lib/groovy.jar",
+        "lib/annotations.jar",
+        "lib/idea_rt.jar",
+        "lib/kotlinx-coroutines-slf4j-1.8.0-intellij.jar",
+        "lib/nio-fs.jar",
+        "lib/resources.jar",
+        "lib/testFramework.jar",
+        "lib/trove.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij"
+    },
+    {
+      "classPath": [
+        "plugins/cidr-base-plugin/lib/cidr-base-plugin.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.cidr.base"
+    },
+    {
+      "classPath": [
+        "plugins/cidr-debugger-plugin/lib/cidr-debugger-plugin.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.cidr.debugger"
+    },
+    {
+      "classPath": [
+        "plugins/c-plugin/lib/c-plugin.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.cidr.lang"
+    },
+    {
+      "classPath": [
+        "plugins/c-clangd-plugin/lib/c-clangd-plugin.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.cidr.lang.clangd"
+    },
+    {
+      "classPath": [
+        "plugins/c-clangdBridge-plugin/lib/c-clangdBridge-plugin.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.cidr.lang.clangdBridge"
+    },
+    {
+      "classPath": [
+        "plugins/completionMlRanking/lib/completionMlRanking.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.completion.ml.ranking"
+    },
+    {
+      "classPath": [
+        "plugins/configurationScript/lib/configurationScript.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.configurationScript"
+    },
+    {
+      "classPath": [
+        "plugins/copyright/lib/copyright.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.copyright"
+    },
+    {
+      "classPath": [
+        "plugins/dev/lib/dev.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.dev"
+    },
+    {
+      "classPath": [
+        "plugins/gradle/lib/gradle.jar",
+        "plugins/gradle/lib/gradle-tooling-extension-api.jar",
+        "plugins/gradle/lib/gradle-tooling-extension-impl.jar",
+        "plugins/gradle/lib/gradle-api-8.10.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.gradle"
+    },
+    {
+      "classPath": [
+        "plugins/java/lib/javac2.jar",
+        "plugins/java/lib/java-impl.jar",
+        "plugins/java/lib/java-frontback.jar",
+        "plugins/java/lib/jb-jdi.jar",
+        "plugins/java/lib/sa-jdwp.jar",
+        "plugins/java/lib/jps-launcher.jar",
+        "plugins/java/lib/jps-builders.jar",
+        "plugins/java/lib/jshell-protocol.jar",
+        "plugins/java/lib/jshell-frontend.jar",
+        "plugins/java/lib/jgoodies-common.jar",
+        "plugins/java/lib/jps-javac-extension.jar",
+        "plugins/java/lib/debugger-memory-agent.jar",
+        "plugins/java/lib/aether-dependency-resolver.jar",
+        "plugins/java/lib/maven-resolver-transport-file.jar",
+        "plugins/java/lib/maven-resolver-transport-http.jar",
+        "plugins/java/lib/maven-resolver-connector-basic.jar",
+        "plugins/java/lib/jetbrains.kotlinx.metadata.jvm.jar",
+        "plugins/java/lib/jps-builders-6.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.java"
+    },
+    {
+      "classPath": [
+        "plugins/java-i18n/lib/java-i18n.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.java-i18n"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.java.frontback.impl"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.java.frontback.psi.impl"
+    },
+    {
+      "classPath": [
+        "plugins/java-ide-customization/lib/java-ide-customization.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.java.ide"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.all"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.androidstudio"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.cidr.debugger"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.cidr.doxygen"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.cidr.ide"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.cidr.lang"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.cidr.modulemap.language"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.cmake"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.coverage"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.externalSystem"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.gradle.java"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.java"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.java-capable"
+    },
+    {
+      "classPath": [
+        "plugins/json/lib/json.jar",
+        "plugins/json/lib/json-split.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.modules.json"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.jsp.base"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.lang"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.nativeDebug"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.os.linux"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.os.unix"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.os.xwindow"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.platform"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.python-core-capable"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.python-in-non-pycharm-ide-capable"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.remoteServers"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.structuralsearch"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.vcs"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.xdebugger"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.modules.xml"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.platform.experimental.backend"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "com.intellij.platform.experimental.frontend"
+    },
+    {
+      "classPath": [
+        "plugins/platform-images/lib/platform-images.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.platform.images"
+    },
+    {
+      "classPath": [
+        "plugins/keymap-eclipse/lib/keymap-eclipse.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.plugins.eclipsekeymap"
+    },
+    {
+      "classPath": [
+        "plugins/keymap-netbeans/lib/keymap-netbeans.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.plugins.netbeanskeymap"
+    },
+    {
+      "classPath": [
+        "plugins/keymap-visualStudio/lib/keymap-visualStudio.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.plugins.visualstudiokeymap"
+    },
+    {
+      "classPath": [
+        "plugins/properties/lib/properties.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.properties"
+    },
+    {
+      "classPath": [
+        "plugins/tasks/lib/tasks-core.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.tasks"
+    },
+    {
+      "classPath": [
+        "plugins/turboComplete/lib/turboComplete.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.intellij.turboComplete"
+    },
+    {
+      "classPath": [
+        "plugins/performanceTesting/lib/performanceTesting.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.jetbrains.performancePlugin"
+    },
+    {
+      "classPath": [
+        "plugins/sh/lib/sh.jar"
+      ],
+      "kind": "plugin",
+      "name": "com.jetbrains.sh"
+    },
+    {
+      "classPath": [
+        "plugins/vcs-hg/lib/vcs-hg.jar"
+      ],
+      "kind": "plugin",
+      "name": "hg4idea"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.c.dfa"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.c.dfa.bridge"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.cidr.translateCode"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.copyright.vcs"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.dev.codeInsight"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.dev.psiViewer"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.devkit.core"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.devkit.debugger"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.devkit.git"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.devkit.gradle"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.devkit.i18n"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.devkit.images"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.devkit.intelliLang"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.devkit.stacktrace"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.devkit.themes"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.devkit.uiDesigner"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.devkit.workspaceModel"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.groovy.dev"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.groovy.git"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.groovy/ant"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.groovy/byte-code-viewer"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "intellij.java.compiler.charts"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.java.compiler.charts"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.java.dev"
+    },
+    {
+      "classPath": [
+        "plugins/java/lib/modules/intellij.java.featuresTrainer.jar"
+      ],
+      "kind": "moduleV2",
+      "name": "intellij.java.featuresTrainer"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.java.ide.customization/training"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.java.performancePlugin"
+    },
+    {
+      "classPath": [
+        "plugins/java/lib/modules/intellij.java.structuralSearch.jar"
+      ],
+      "kind": "moduleV2",
+      "name": "intellij.java.structuralSearch"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "intellij.java.terminal"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.java.terminal"
+    },
+    {
+      "classPath": [
+        "plugins/java/lib/modules/intellij.java.unscramble.jar"
+      ],
+      "kind": "moduleV2",
+      "name": "intellij.java.unscramble"
+    },
+    {
+      "classPath": [
+        "plugins/java/lib/modules/intellij.java.vcs.jar"
+      ],
+      "kind": "moduleV2",
+      "name": "intellij.java.vcs"
+    },
+    {
+      "classPath": [
+        "plugins/java/lib/modules/intellij.jvm.analysis.impl.jar"
+      ],
+      "kind": "moduleV2",
+      "name": "intellij.jvm.analysis.impl"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.kotlin.dev"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.kotlin.devkit"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.libraries.compose.desktop.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.libraries.compose.desktop"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.libraries.grpc.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.libraries.grpc"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.libraries.grpc.netty.shaded.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.libraries.grpc.netty.shaded"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.libraries.ktor.client.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.libraries.ktor.client"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.libraries.ktor.client.cio.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.libraries.ktor.client.cio"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.libraries.microba.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.libraries.microba"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.libraries.skiko.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.libraries.skiko"
+    },
+    {
+      "classPath": [
+        "plugins/markdown/lib/modules/intellij.markdown.compose.preview.jar"
+      ],
+      "kind": "moduleV2",
+      "name": "intellij.markdown.compose.preview"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.markdown.fenceInjection"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.markdown.frontmatter"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.markdown.frontmatter.toml"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.markdown.frontmatter.yaml"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.markdown.images"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.markdown.model"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.markdown.spellchecker"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.markdown.xml"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.performanceTesting.remoteDriver"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.performanceTesting.vcs"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.clouds.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.clouds"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.collaborationTools.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.collaborationTools"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.compose.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.compose"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.coverage.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.coverage"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.coverage.agent.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.coverage.agent"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.debugger.impl.backend.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.debugger.impl.backend"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.debugger.impl.frontend.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.debugger.impl.frontend"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.diagnostic.freezeAnalyzer.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.diagnostic.freezeAnalyzer"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.diagnostic.freezes.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.diagnostic.freezes"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.execution.dashboard.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.execution.dashboard"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.execution.serviceView.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.execution.serviceView"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.frontend.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.frontend"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.images.backend.svg.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.images.backend.svg"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.images.copyright.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.images.copyright"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.inline.completion.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.inline.completion"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.kernel.backend.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.kernel.backend"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.lvcs.impl.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.lvcs.impl"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.navbar.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.navbar"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.navbar.backend.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.navbar.backend"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.navbar.frontend.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.navbar.frontend"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.navbar.monolith.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.navbar.monolith"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.progress.backend.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.progress.backend"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.project.backend.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.project.backend"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.rpc.backend.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.rpc.backend"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.settings.local.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.settings.local"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.smRunner.vcs.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.smRunner.vcs"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.platform.statistics.devkit"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.vcs.dvcs.impl.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.vcs.dvcs.impl"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.vcs.impl.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.vcs.impl"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.platform.vcs.log.impl.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.platform.vcs.log.impl"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.properties/copyright"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.rml.dfa.impl.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.rml.dfa.impl"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.sh.copyright"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.sh.markdown"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.sh.python"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.sh.terminal"
+    },
+    {
+      "classPath": [
+        "lib/modules/intellij.smart.update.jar"
+      ],
+      "kind": "productModuleV2",
+      "name": "intellij.smart.update"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.terminal.sh"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.terminal/cloud"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.toml.grazie"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.toml.json"
+    },
+    {
+      "classPath": [
+        "plugins/turboComplete/lib/modules/intellij.turboComplete.languages.kotlin.jar"
+      ],
+      "kind": "moduleV2",
+      "name": "intellij.turboComplete.languages.kotlin"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.vcs.git.coverage"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.vcs.git/newUiOnboarding"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.vcs.git/terminal"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.vcs.github/tracker"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "intellij.vcs.gitlab.yaml"
+    },
+    {
+      "classPath": [
+        "plugins/webp/lib/webp.jar"
+      ],
+      "kind": "plugin",
+      "name": "intellij.webp"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.base.analysis-api-platform"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.base.external-build-system"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.base.fe10.analysis-api-platform"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.base.fe10.plugin"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.base.fe10.project-structure"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.base.injection"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.code-insight.inspections.k1"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.code-insight.inspections.shared"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.code-insight.intentions.shared"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.code-insight.k1"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.code-insight.live-templates.k1"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.code-insight.live-templates.shared"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.code-insight.postfix-templates.k1"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.code-insight.structural-search.k1"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.allopen.gradle"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.allopen.maven"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.assignment.common.k1"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.assignment.gradle"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.assignment.maven"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.compiler-plugin-support.gradle"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.compiler-plugin-support.maven"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.kapt"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.kotlinx-serialization.gradle"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.kotlinx-serialization.maven"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.lombok.gradle"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.lombok.maven"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.noarg.gradle"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.noarg.maven"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.parcelize.gradle"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.sam-with-receiver.gradle"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.sam-with-receiver.maven"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-plugins.scripting"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.compiler-reference-index"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.copyright"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.coverage"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.features-trainer"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.git"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.gradle.code-insight-common"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.gradle.code-insight-groovy"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.gradle.code-insight-toml"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.gradle.gradle"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.gradle.gradle-java"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.gradle.gradle-tooling"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.grazie"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.i18n"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.injection.k1"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.j2k.k1.new.post-processing"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.j2k.k1.old.post-processing"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.jvm-debugger.sequence.k1"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.jvm-decompiler"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.maven"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.ml-completion"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.onboarding"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.onboarding.gradle"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.performanceExtendedPlugin"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.project-wizard.compose"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.project-wizard.gradle"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.project-wizard.idea"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.project-wizard.idea.k1"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.project-wizard.maven"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.run-configurations.junit"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.run-configurations.junit-fe10"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.run-configurations.jvm"
+    },
+    {
+      "kind": "moduleV2",
+      "name": "kotlin.run-configurations.testng"
+    },
+    {
+      "classPath": [
+        "plugins/editorconfig/lib/editorconfig.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.editorconfig.editorconfigjetbrains"
+    },
+    {
+      "classPath": [
+        "plugins/Groovy/lib/Groovy.jar",
+        "plugins/Groovy/lib/groovy-rt.jar",
+        "plugins/Groovy/lib/groovy-jps.jar",
+        "plugins/Groovy/lib/groovy-spock-rt.jar",
+        "plugins/Groovy/lib/groovy-constants-rt.jar",
+        "plugins/Groovy/lib/groovy-rt-class-loader.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.intellij.groovy"
+    },
+    {
+      "classPath": [
+        "plugins/platform-langInjection/lib/platform-langInjection.jar",
+        "plugins/platform-langInjection/lib/java-langInjection-jps.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.intellij.intelliLang"
+    },
+    {
+      "classPath": [
+        "plugins/markdown/lib/markdown.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.intellij.plugins.markdown"
+    },
+    {
+      "classPath": [
+        "plugins/java-debugger-streams/lib/java-debugger-streams.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.debugger.streams"
+    },
+    {
+      "classPath": [
+        "plugins/maven-model/lib/maven-model.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.idea.maven.model"
+    },
+    {
+      "classPath": [
+        "plugins/maven-server/lib/maven-server.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.idea.maven.server.api"
+    },
+    {
+      "classPath": [
+        "plugins/repository-search/lib/repository-search.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.idea.reposearch"
+    },
+    {
+      "classPath": [
+        "plugins/java-decompiler/lib/java-decompiler.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.java.decompiler"
+    },
+    {
+      "classPath": [
+        "plugins/Kotlin/lib/kotlin-plugin.jar",
+        "plugins/Kotlin/lib/kotlin-base-jps.jar",
+        "plugins/Kotlin/lib/kotlin-plugin-shared.jar",
+        "plugins/Kotlin/lib/kotlin-gradle-tooling.jar",
+        "plugins/Kotlin/lib/kotlinc.kotlin-jps-common.jar",
+        "plugins/Kotlin/lib/kotlinc.kotlin-compiler-ir.jar",
+        "plugins/Kotlin/lib/kotlinc.kotlin-compiler-fe10.jar",
+        "plugins/Kotlin/lib/kotlinc.noarg-compiler-plugin.jar",
+        "plugins/Kotlin/lib/kotlinc.kotlin-compiler-common.jar",
+        "plugins/Kotlin/lib/kotlinc.lombok-compiler-plugin.jar",
+        "plugins/Kotlin/lib/kotlinc.allopen-compiler-plugin.jar",
+        "plugins/Kotlin/lib/kotlinc.compose-compiler-plugin.jar",
+        "plugins/Kotlin/lib/kotlinc.parcelize-compiler-plugin.jar",
+        "plugins/Kotlin/lib/kotlinc.scripting-compiler-plugin.jar",
+        "plugins/Kotlin/lib/kotlinc.assignment-compiler-plugin.jar",
+        "plugins/Kotlin/lib/kotlinc.js-plain-objects-compiler-plugin.jar",
+        "plugins/Kotlin/lib/kotlinc.sam-with-receiver-compiler-plugin.jar",
+        "plugins/Kotlin/lib/kotlinc.android-extensions-compiler-plugin.jar",
+        "plugins/Kotlin/lib/kotlinc.kotlinx-serialization-compiler-plugin.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.kotlin"
+    },
+    {
+      "classPath": [
+        "plugins/cidr-clangConfig-plugin/lib/cidr-clangConfig-plugin.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.plugins.clangConfig"
+    },
+    {
+      "classPath": [
+        "plugins/cidr-clangFormat-plugin/lib/cidr-clangFormat-plugin.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.plugins.clangFormat"
+    },
+    {
+      "classPath": [
+        "plugins/emojipicker/lib/emojipicker.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.plugins.emojipicker"
+    },
+    {
+      "classPath": [
+        "plugins/vcs-github-community/lib/vcs-github.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.plugins.github"
+    },
+    {
+      "classPath": [
+        "plugins/vcs-gitlab/lib/vcs-gitlab.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.plugins.gitlab"
+    },
+    {
+      "classPath": [
+        "plugins/gradle-java/lib/gradle-java.jar",
+        "plugins/gradle-java/lib/gradle-jps.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.plugins.gradle"
+    },
+    {
+      "kind": "pluginAlias",
+      "name": "org.jetbrains.plugins.gradle.java"
+    },
+    {
+      "classPath": [
+        "plugins/terminal/lib/terminal.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.plugins.terminal"
+    },
+    {
+      "classPath": [
+        "plugins/textmate/lib/textmate.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.plugins.textmate"
+    },
+    {
+      "classPath": [
+        "plugins/yaml/lib/yaml.jar",
+        "plugins/yaml/lib/yaml-editing.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.jetbrains.plugins.yaml"
+    },
+    {
+      "classPath": [
+        "plugins/toml/lib/toml.jar"
+      ],
+      "kind": "plugin",
+      "name": "org.toml.lang"
+    }
+  ],
+  "modules": [
+    "com.intellij.java.frontback.impl",
+    "com.intellij.java.frontback.psi.impl",
+    "com.intellij.modules.all",
+    "com.intellij.modules.androidstudio",
+    "com.intellij.modules.cidr.debugger",
+    "com.intellij.modules.cidr.doxygen",
+    "com.intellij.modules.cidr.ide",
+    "com.intellij.modules.cidr.lang",
+    "com.intellij.modules.cidr.modulemap.language",
+    "com.intellij.modules.cmake",
+    "com.intellij.modules.coverage",
+    "com.intellij.modules.externalSystem",
+    "com.intellij.modules.gradle.java",
+    "com.intellij.modules.java",
+    "com.intellij.modules.java-capable",
+    "com.intellij.modules.jsp.base",
+    "com.intellij.modules.lang",
+    "com.intellij.modules.nativeDebug",
+    "com.intellij.modules.os.linux",
+    "com.intellij.modules.os.unix",
+    "com.intellij.modules.os.xwindow",
+    "com.intellij.modules.platform",
+    "com.intellij.modules.python-core-capable",
+    "com.intellij.modules.python-in-non-pycharm-ide-capable",
+    "com.intellij.modules.remoteServers",
+    "com.intellij.modules.structuralsearch",
+    "com.intellij.modules.vcs",
+    "com.intellij.modules.xdebugger",
+    "com.intellij.modules.xml",
+    "com.intellij.platform.experimental.backend",
+    "com.intellij.platform.experimental.frontend",
+    "intellij.java.compiler.charts",
+    "intellij.java.terminal",
+    "org.jetbrains.plugins.gradle.java"
+  ],
+  "name": "Android Studio",
+  "productCode": "AI",
+  "productVendor": "Google",
+  "svgIconPath": "bin/studio.svg",
+  "version": "AI-243.24978.46.2431.13208083",
+  "versionSuffix": ""
+}

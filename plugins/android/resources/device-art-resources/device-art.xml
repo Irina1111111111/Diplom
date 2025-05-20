@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<devices>
+
+  <device id="phone" name="Generic Phone">
+    <orientation name="port" size="568,256" screenPos="113,93" screenSize="343,46" back="phone_back_simple_port.9.png"/>
+    <orientation name="land" size="607,350" screenPos="141,36" screenSize="324,255" back="phone_back_simple_land.9.png"/>
+  </device>
+
+  <device id="tablet" name="Generic Tablet">
+    <orientation name="port" size="1310,313" screenPos="256,111" screenSize="802,55" back="tablet_back_simple.9.png"/>
+    <orientation name="land" size="1310,313" screenPos="256,111" screenSize="802,55" back="tablet_back_simple.9.png"/>
+  </device>
+
+</devices>
